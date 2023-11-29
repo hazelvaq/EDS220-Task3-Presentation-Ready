@@ -14,5 +14,6 @@ A time series plot from 2017 to 2018, with a moving average of 5-days was create
 - Plotting and customizing a fasle color raster image
 
 ## Data
-EPA's Air Quality Data Collected at Outdoor Monitor Stations, *Daily AQI by CBSA* [`daily_aqi_by_cbsa_2017.zip`, 'daily_aqi_by_cbsa_2018.zip'] from (https://www.epa.gov/outdoor-air-quality-data). Accessed date: November 25,2023
+Environmental Protection Agency (2023), *Air Quality Data Collected at Outdoor Monitor Stations* [`daily_aqi_by_cbsa_2017.zip`, `daily_aqi_by_cbsa_2018.zip`] from (https://www.epa.gov/outdoor-air-quality-data). Accessed date: November 25,2023
 
+California Govt State Geoportal (2023), *California Fire Perimeter*, [Data file] from https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-all-1/about)
