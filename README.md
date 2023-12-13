@@ -13,6 +13,23 @@ A time series plot from 2017 to 2018, with a moving average of 5-days was create
 - Raster wrangling with `rioxarray`
 - Plotting and customizing a fasle color raster image
 
+## File Structure 
+├── LICENSE
+├── README.md
+├── data
+│   ├── California_Fire_Perimeters_2017
+│   │   ├── California_Fire_Perimeters_2017.shp
+│   ├── california_boundary
+│   │   ├── CA_State_TIGER2016.shp
+│   ├── california_counties_boundaries
+│   │   ├── CA_Counties_TIGER2016.shp
+│   ├── land_cover.tif
+│   └── landsat8-2018-01-26-sb-simplified.nc
+├── images
+│   ├── sb_county_aqi.png
+│   └── sb_thomas_fire_2017.png
+└── santa_barbara_thomas_fire.ipynb
+
 ## Data
 Environmental Protection Agency (2023), *Air Quality Data Collected at Outdoor Monitor Stations* [`daily_aqi_by_cbsa_2017.zip`, `daily_aqi_by_cbsa_2018.zip`] from (https://www.epa.gov/outdoor-air-quality-data). Accessed date: November 25,2023
 
