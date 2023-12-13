@@ -1,7 +1,7 @@
-# EDS220-Task3-Presentation-Ready
+# Santa Barbara 2017 Thomas Fire Visualization and AQI
 
 ## About 
-This repository contains a notebook `hwk4-task-3.ipynb` about creating a time series showing Averaged Air Quaility Index(AQI) for Santa Barbara, California in 2017 to observe the affects of the Thomas Fire. As well as creating a raster map of Santa Barbara fire scar from the Thomas fire.
+This repository contains a notebook `santa_barbara_thomas_fire.ipynb` about creating a time series showing Averaged Air Quaility Index(AQI) for Santa Barbara, California in 2017 to observe the affects of the Thomas Fire. As well as creating a raster map of Santa Barbara fire scar from the Thomas fire.
 
 ## Visualizations
 A time series plot from 2017 to 2018, with a moving average of 5-days was created on Santa Barbara's daily AQI levels. As well as, a false color image of Santa Barbara highlighting the fire scar from the aftermath of the Thomas fire. These maps are located in the images/directory.
