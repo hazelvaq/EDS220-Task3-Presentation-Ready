@@ -1,5 +1,5 @@
 # EDS220-Task3-Presentation-Ready
-This is a repository on Hwk 2-Task 2: Air Quality Index Data &amp; Hwk-4 Task 2: False color image
+
 ## About 
 This repository contains a notebook `hwk4-task-3.ipynb` about creating a time series showing Averaged Air Quaility Index(AQI) for Santa Barbara, California in 2017 to observe the affects of the Thomas Fire. As well as creating a raster map of Santa Barbara fire scar from the Thomas fire.
 
